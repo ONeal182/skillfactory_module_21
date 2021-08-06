@@ -1,0 +1,1 @@
+<p class="card-text">Сервер использует технологию nginx и php-fpm</p>
